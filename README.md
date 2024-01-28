@@ -17,7 +17,8 @@
 >     - Random Forest Classifier   
 
 
->[!NOTE: Library Used:]
+>[!NOTE:]
+> ## Library Used:
 > - sklearn
 >   - Train test split
 >   - Label Encoder
