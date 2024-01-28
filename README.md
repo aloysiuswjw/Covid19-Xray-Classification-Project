@@ -17,7 +17,7 @@
 >     - Random Forest Classifier   
 
 
-> [!NOTE:]
+> [!NOTE]
 > ## Library Used:
 > - sklearn
 >   - Train test split
